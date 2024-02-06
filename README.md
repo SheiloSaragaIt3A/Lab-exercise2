@@ -1,1 +1,1 @@
-# Lab-exercise2
+# ProfElecLab2
